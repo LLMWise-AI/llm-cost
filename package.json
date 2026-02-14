@@ -1,0 +1,36 @@
+{
+  "name": "llm-cost",
+  "version": "1.2.0",
+  "description": "Compare LLM API costs across providers. One command, every model.",
+  "bin": {
+    "llm-cost": "./bin/llm-cost.mjs"
+  },
+  "type": "module",
+  "files": [
+    "bin/"
+  ],
+  "keywords": [
+    "llm",
+    "ai",
+    "gpt",
+    "claude",
+    "gemini",
+    "pricing",
+    "cost",
+    "api",
+    "openai",
+    "anthropic",
+    "google",
+    "deepseek",
+    "meta",
+    "llama",
+    "cli"
+  ],
+  "author": "LLMWise (https://llmwise.ai)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LLMWise-AI/llm-cost"
+  },
+  "homepage": "https://llmwise.ai"
+}
