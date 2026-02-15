@@ -27,7 +27,7 @@ npx llm-cost --tokens 1000 -o 4000 -p openai,anthropic,google
 
 No API key needed. No dependencies. Prices fetched live from provider APIs.
 
-**Want a visual dashboard instead?** Check out [llmwise.ai/pricing](https://llmwise.ai/pricing) — interactive charts, filters, and cost calculator.
+**Want a visual dashboard instead?** Check out [llmwise.ai/llm-cost](https://llmwise.ai/llm-cost) — interactive charts, filters, and cost calculator.
 
 ---
 
